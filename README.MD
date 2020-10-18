@@ -9,3 +9,7 @@ Once you have Python installed, you can run it by opening the command prompt in 
 ```py "Microsoft Troubleshooter.py"```
 
 ... and let the script work it's magic.
+
+OR
+
+Simply download the .exe from the [latest release page](https://github.com/Payload9/Microsoft-Windows-Troubleshooter/releases/) and simply run it.
