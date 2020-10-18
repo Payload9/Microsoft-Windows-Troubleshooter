@@ -13,3 +13,8 @@ Once you have Python installed, you can run it by opening the command prompt in 
 OR
 
 Simply download the .exe from the [latest release page](https://github.com/Payload9/Microsoft-Windows-Troubleshooter/releases/) and simply run it.
+
+## Special thanks to
+- Raid Shadow Legends for sponsoring this repo
+- NordVPN for also sponsoring this repo
+- Bill Gates for giving me five dollars for making a script that literally solves every single issue in Windows 10
