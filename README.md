@@ -1,4 +1,4 @@
-# Microsoft Troubleshooter Py
+# Microsoft Windows Troubleshooter Py
 This is a very, very advanced troubleshooter for Windows 10 machines. With an easy installation and completely accurate results, I personally guarantee that all of your computer issues will be resolved after running it. If you enjoy it, make sure you star this repo. <3
 
 ## Installation
